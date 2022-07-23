@@ -1,0 +1,7 @@
+X,Y,Width,Height,Font family,Font size,Colour,Layout,Format
+0,0,1,1,Times-Roman,0.6,"cmyk(0.15,0,0.05,0)",c,%(Bar)s
+0.05,0.7,0.90,0.2,,0.08,,l,%(Brewery)s
+0.05,0.5,0.90,0.2,,0.08,,l,%(Beer)s
+0.05,0.3,0.45,0.2,,0.12,,l,%(Cask)s of %(Quantity)s
+0.50,0.3,0.45,0.2,,0.12,,l,"%(ABV)s%% %(Size)s"
+0.50,0.1,0.45,0.2,,0.06,,l,%(Collected_By)s
